@@ -6,15 +6,15 @@ Right now I have decided to move to Nvim, but this config will stay here, and in
 
 Sections:
 
-- [Plugins](#1.-plugins)
-- [Custom Keymaps](#2.-keymaps)
-- [Config](#3.-config)
-- [Theme](#4.-theme)
-- [Screenshots](#5.-some-screenshots)
+- [Plugins](#plugins)
+- [Custom Keymaps](#keymaps)
+- [Config](#config)
+- [Theme](#theme)
+- [Screenshots](#some-screenshots)
 
 ---
 
-## 1. Plugins
+## Plugins
 
 ##### DevOps related
 
@@ -47,13 +47,13 @@ Sections:
 - Python
 - Pylance
 
-##### Theme
+##### Themes
 
 - Monokai
 
 ---
 
-## 2. Keymaps
+## Keymaps
 
 I have currently only one custom key map.
 
@@ -61,13 +61,13 @@ I have currently only one custom key map.
 
 ---
 
-## 3. Config
+## Config
 
 You can find it under settings.json file
 
 ---
 
-## 4. Theme
+## Theme
 
 I am using Monokai theme. It is paid, and I have paid for it and recommend you to do it, as it is a very good theme with nice icons.
 
@@ -75,7 +75,7 @@ I have also added some color customizations to the workbench, so the theme looks
 
 ---
 
-## 5. Some Screenshots
+## Some Screenshots
 
 Screenshot of the editor:
 ![Screenshot of the editor](./screenshot.png "Screenshot of the editor")
