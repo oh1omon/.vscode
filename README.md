@@ -6,11 +6,11 @@ Right now I have decided to move to Nvim, but this config will stay here, and in
 
 Sections:
 
-- [Plugins](#1.-plugins)
-- [Custom Keymaps](#2.-keymaps)
-- [Config](#3.-config)
-- [Theme](#4.-theme)
-- [Screenshots](#5.-some-screenshots)
+- [Plugins](https://github.com/oh1omon/.vscode#1.-plugins)
+- [Custom Keymaps](https://github.com/oh1omon/.vscode#2.-keymaps)
+- [Config](https://github.com/oh1omon/.vscode#3.-config)
+- [Theme](https://github.com/oh1omon/.vscode#4.-theme)
+- [Screenshots](https://github.com/oh1omon/.vscode#5.-some-screenshots)
 
 ---
 
